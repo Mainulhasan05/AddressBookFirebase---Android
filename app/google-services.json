@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "430656722810",
+    "project_id": "address-book-a03a0",
+    "storage_bucket": "address-book-a03a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430656722810:android:5aea2cc2e59822139a68c3",
+        "android_client_info": {
+          "package_name": "com.example.addressbook_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430656722810-p0doqpgj9fptdka5hkfn0c1201vvdu10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-6xiDQQh_hXwEOC9PHhrMUMgelSq5Gmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430656722810-p0doqpgj9fptdka5hkfn0c1201vvdu10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
